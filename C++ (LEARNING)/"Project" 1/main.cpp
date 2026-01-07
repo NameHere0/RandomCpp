@@ -5,6 +5,7 @@
 
 #include "userput.hpp"
 #include <iostream>
+#include <cmath>
 
 int main()
 {
@@ -16,16 +17,11 @@ int main()
     int y{getUserInput("Enter another integer:")};
 
     // print x + y and equivelant for others
-    std::cout << "Addition: " << x + y << "\n";       // print the sum
-    std::cout << "Subtraction: " << x - y << "\n";    // print subtraction
-    std::cout << "Multiplication: " << x * y << "\n"; // print product
-    std::cout << "Division: " << x / y << "\n";       // print division
-
-    // Newline for upcoming
-    std::cout << "\n";
-
-    // Add some extras cuz why not
-    // TODO: FINISH
+    std::cout << "Addition: " << x + y << "\n";           // print the sum
+    std::cout << "Subtraction: " << x - y << "\n";        // print subtraction
+    std::cout << "Multiplication: " << x * y << "\n";     // print product
+    std::cout << "Division: " << x / y << "\n";           // print division
+    std::cout << "Exponent (num1 ^ num2): " << pow(x, y); // print exponentation
 
     return 0;
 }

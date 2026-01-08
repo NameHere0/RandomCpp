@@ -3,7 +3,9 @@
 
 int main()
 {
-    int x{getUserInput("Enter two integers:")};
+    int x{getUserInput("Enter an integer:")};
+    int y{getUserInput("Enter another integer:")};
 
-    std::cout << x return 0;
+    std::cout << x + y;
+    return 0;
 }

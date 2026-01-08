@@ -3,6 +3,7 @@
 
 int main()
 {
+    int x{getUserInput("Enter two integers:")};
 
-    return 0;
+    std::cout << x return 0;
 }

@@ -17,11 +17,11 @@ int main()
     int y{getUserInput("Enter another integer:")};
 
     // print x + y and equivelant for others
-    std::cout << "Addition: " << x + y << "\n";                   // print the sum
-    std::cout << "Subtraction: " << x - y << "\n";                // print subtraction
-    std::cout << "Multiplication: " << x * y << "\n";             // print product
-    std::cout << "Division: " << x / y << "\n";                   // print division
-    std::cout << "Exponent (num1 ^ num2): " << pow(x, y) << "\n"; // print exponentation
+    std::cout << "Addition: " << x + y << "\n";                          // print the sum
+    std::cout << "Subtraction: " << x - y << "\n";                       // print subtraction
+    std::cout << "Multiplication: " << x * y << "\n";                    // print product
+    std::cout << "Division: " << x / y << " Remains: " << x % y << "\n"; // print division
+    std::cout << "Exponent (num1 ^ num2): " << pow(x, y) << "\n";        // print exponentation
 
     return 0;
 }

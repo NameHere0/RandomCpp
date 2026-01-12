@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.16)
+project(Lesson 2.4)
+set(CMAKE_CXX_STANDARD 23)
+file(GLOB SOURCES "Lesson 2.4//*.cpp")
+add_executable(Lesson 2.4 ${SOURCES})

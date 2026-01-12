@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.16)
+project(Project 1)
+set(CMAKE_CXX_STANDARD 23)
+file(GLOB SOURCES "Project 1//*.cpp")
+add_executable(Project 1 ${SOURCES})

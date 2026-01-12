@@ -1,0 +1,3 @@
+/home/debiansalgado/HackerCorner/C++/C++ (LEARNING)/build/CMakeFiles/lesson3_9.dir
+/home/debiansalgado/HackerCorner/C++/C++ (LEARNING)/build/CMakeFiles/edit_cache.dir
+/home/debiansalgado/HackerCorner/C++/C++ (LEARNING)/build/CMakeFiles/rebuild_cache.dir

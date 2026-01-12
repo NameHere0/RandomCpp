@@ -1,5 +1,0 @@
-cmake_minimum_required(VERSION 3.16)
-project(Lesson 1.x (Quiz))
-set(CMAKE_CXX_STANDARD 23)
-file(GLOB SOURCES "Lesson 1.x (Quiz)//*.cpp")
-add_executable(Lesson 1.x (Quiz) ${SOURCES})

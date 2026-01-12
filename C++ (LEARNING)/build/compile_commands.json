@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/debiansalgado/HackerCorner/C++/C++ (LEARNING)/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/lesson3_9.dir/main.o -c \"/home/debiansalgado/HackerCorner/C++/C++ (LEARNING)/Project 1/main.cpp\"",
+  "file": "/home/debiansalgado/HackerCorner/C++/C++ (LEARNING)/Project 1/main.cpp",
+  "output": "CMakeFiles/lesson3_9.dir/main.o"
+},
+{
+  "directory": "/home/debiansalgado/HackerCorner/C++/C++ (LEARNING)/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/lesson3_9.dir/userput.o -c \"/home/debiansalgado/HackerCorner/C++/C++ (LEARNING)/Project 1/userput.cpp\"",
+  "file": "/home/debiansalgado/HackerCorner/C++/C++ (LEARNING)/Project 1/userput.cpp",
+  "output": "CMakeFiles/lesson3_9.dir/userput.o"
+}
+]

@@ -1,3 +1,4 @@
 {
-    "cmake.sourceDirectory": "/home/debiansalgado/HackerCorner/C++/C++ (LEARNING)/Project 1"
+  "cmake.configurePreset": "default",
+  "cmake.buildPreset": "default"
 }
